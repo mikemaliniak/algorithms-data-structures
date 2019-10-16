@@ -1,0 +1,23 @@
+{
+  "name": "algorithms-data-structures",
+  "version": "1.0.0",
+  "description": "Udemy course code - Algorithms and Data Structures",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikemaliniak/algorithms-data-structures.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikemaliniak/algorithms-data-structures/issues"
+  },
+  "homepage": "https://github.com/mikemaliniak/algorithms-data-structures#readme",
+  "devDependencies": {
+    "webpack": "^4.41.2",
+    "webpack-dev-server": "^3.8.2"
+  }
+}
