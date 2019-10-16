@@ -4,7 +4,8 @@
   "description": "Udemy course code - Algorithms and Data Structures",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack"
   },
   "repository": {
     "type": "git",
@@ -18,6 +19,7 @@
   "homepage": "https://github.com/mikemaliniak/algorithms-data-structures#readme",
   "devDependencies": {
     "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.9",
     "webpack-dev-server": "^3.8.2"
   }
 }
